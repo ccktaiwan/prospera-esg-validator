@@ -1,0 +1,11 @@
+{
+  "organization_id": "LAPTOP-NODE-001",
+  "reporting_period": "2026-Q1",
+  "emissions": {
+    "scope_01": 250.00,
+    "scope_02": 450.75,
+    "scope_03": 100.25
+  },
+  "unit": "tCO2e",
+  "status": "SUBMITTED"
+}
