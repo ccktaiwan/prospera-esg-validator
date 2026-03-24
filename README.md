@@ -1,14 +1,14 @@
 ---
 Prospera-ID: prospera-esg-validator
 Governance-Category: APPLICATION
-Layer-Position: L4 (Execution Engine - Vertical 02: ESG)
-Human-Authorizing-Engineer: ccktaiwan (MND-Authority)
-AI-Engineering-Worker: Google AI Studio (Gemini 1.5 Pro) [Clerical-Expansion-Only]
-Inventorship-Status: Human-Exclusive (MND-L1-PROTECTED)
+Layer-Position: "L4 (Execution Engine - Vertical 02: ESG)"
+Human-Authorizing-Engineer: "ccktaiwan (MND-Authority)"
+AI-Engineering-Worker: "Google AI Studio (Gemini 1.5 Pro) [Clerical-Expansion-Only]"
+Inventorship-Status: "Human-Exclusive (MND-L1-PROTECTED)"
 SSOT-Ref: REPO_MASTER_INDEX.json
 Last-Audit: 2026-03-24
-Status: ACTIVE / VALIDATOR_LOCKED
-Maturity-Level: Phase 5 (Implementation & Auditability)
+Status: "ACTIVE / VALIDATOR_LOCKED"
+Maturity-Level: "Phase 5 (Implementation & Auditability)"
 ---
 
 ## Governance Entry Point
@@ -26,7 +26,7 @@ DOCUMENT ID:
 SPN-L1-ESG-VAL-001
 
 VERSION:
-v1.0.0
+v1.0.1
 
 STATUS:
 Active / Validator Locked
