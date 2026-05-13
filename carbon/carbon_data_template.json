@@ -1,0 +1,14 @@
+{
+  "iso_standard": "14064-1:2018",
+  "measurement_batch": {
+    "source_id": "SENSOR_ELECTRICITY_001",
+    "value": 0.0,
+    "unit": "kWh",
+    "emission_factor": 0.502,
+    "calculated_tco2e": 0.0
+  },
+  "audit_metadata": {
+    "node_gid": "SME-TAIWAN-001",
+    "registry_sync_hash": "4a1a9ab"
+  }
+}

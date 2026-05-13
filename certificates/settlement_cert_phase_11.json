@@ -1,0 +1,14 @@
+{
+  "settlement_id": "PROS-FIN-20260301-FINAL",
+  "period": "PHASE-11-COMMERCIAL",
+  "summary": {
+    "total_rwa_value": 5000.0,
+    "total_royalty_distributed": 1000.0,
+    "treasury_inflow": 200.0
+  },
+  "verification": {
+    "audit_proof_ref": "AUDIT_ACCESS_PROOF_20260301.json",
+    "ledger_consistency": "VERIFIED"
+  },
+  "status": "FINALIZED_AND_FROZEN"
+}

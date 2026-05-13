@@ -1,0 +1,15 @@
+{
+  "cert_id": "PROS-CERT-20260228-019",
+  "issue_date": "2026-02-28",
+  "subject": "Identity_Foundation (Repo #5)",
+  "valuation": {
+    "amount": 1477.5,
+    "currency": "PROS",
+    "basis_seal": "SEAL_MANIFEST_019.md"
+  },
+  "provenance": {
+    "node_origin": "SME-TAIWAN-001",
+    "audit_log_ref": "SME_LOG_20260228_1827.log"
+  },
+  "status": "VALID_AND_LOCKED"
+}

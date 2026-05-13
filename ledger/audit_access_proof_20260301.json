@@ -1,0 +1,7 @@
+﻿{
+    "audit_event_id":  "EVT-20260301-2134",
+    "timestamp":  "2026-03-01 21:34:37",
+    "status":  "VERIFIED_PASS",
+    "accessed_resource":  "Registry\\CERTIFICATES\\CERT_019_IDENTITY.json",
+    "auditor_gid":  "AUDITOR-TEST-001"
+}

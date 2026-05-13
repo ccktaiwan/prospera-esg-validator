@@ -1,0 +1,8 @@
+{
+  "audit_event_id": "STRING_ID",
+  "auditor_gid": "AUD-READ-ONLY-MASTER",
+  "timestamp": "ISO-8601",
+  "accessed_resource": "FILE_PATH",
+  "access_integrity": "SHA256_HASH",
+  "status": "VERIFIED_PASS"
+}
